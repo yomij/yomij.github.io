@@ -1,0 +1,2 @@
+# yomij.github.io
+Blog
